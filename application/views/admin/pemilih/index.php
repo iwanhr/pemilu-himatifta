@@ -20,8 +20,8 @@
                         <label class="desc" for="expired_date">Nama Lengkap</label>
                         <input type="text" id="nama" class="field text full" name="nama" />
                         <br />
-                        <label class="desc" for="expired_date">Phone</label>
-                        <input type="text" id="phone" class="field text full" name="phone" />
+<!--                        <label class="desc" for="expired_date">Phone</label>
+                        <input type="text" id="phone" class="field text full" name="phone" /> -->
                         <label class="desc" for="expired_date">Key</label>
                         <input type="text" id="reg_key" class="field text full" name="reg_key"  value="<?=$reg_key;?>" readonly=""/>
                     </div>
