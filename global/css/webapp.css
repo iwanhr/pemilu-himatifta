@@ -1,0 +1,37 @@
+.box{
+	padding:5px;
+	background:#F5F5F5;
+	border:1px solid #E6E6E6;
+	float:left;
+	margin:0 15px 15px 0;
+	width:150px;
+	height:240px;
+	overflow:hidden;
+}
+
+.box .title{
+	font-weight:bold;	
+}
+
+.box-error{
+	padding:10px;
+	background:#FFD4E2;
+	color:#FC0055;	
+	margin:0 0 15px 0;
+}
+
+.box-success{
+	padding:10px;
+	background:#C8E3FA;
+	color:#0961AD;	
+	margin:0 0 15px 0;
+}
+
+/*
+.box img{
+	border:1px solid #F2F2F2;
+	padding:5px;
+	background:#FFFFFF;
+	margin:0 0 5px 0;
+}
+*/

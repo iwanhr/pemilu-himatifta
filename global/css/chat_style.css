@@ -1,0 +1,99 @@
+		body{
+			width: 500px;
+			margin: 0 auto;
+			font-family: arial,sans-serif;
+			font-size: 12px;
+			color: #4e5665;
+			margin-bottom: 50px;
+		}
+		textarea{
+			font-family: arial,sans-serif;
+			font-size: 12px;
+		}
+		input{
+			font-family: arial,sans-serif;
+			font-size: 12px;
+		}
+		h1{
+			font-size: 20px
+		}
+		a{
+			color: #3b5998;
+			cursor: pointer;
+			text-decoration: none;
+			font-weight: bold;
+		}
+		.c_list{
+			padding:10px 0px;
+			display: block;
+			float: left;
+			clear: both;
+		}
+		.c_name h4{
+			font-size: 12px;
+			margin:0px;
+			line-height: 0px
+		}
+		.c_photo{
+			border-radius: 5px;
+			border: 1px solid #fafafa;
+			float: left;
+			margin-right: 20px
+		}
+		.c_wrap{
+			width: 400px;
+			float: left;
+		}
+		.c_photo_wrap{
+			width: 80px;
+			float: left;
+		}
+		.c_photo_wrap img{
+			width:50px;
+			height:50px;
+		}
+		.c_comment{
+			margin: 0px;
+			font-size: 12px !important;
+		}
+		.c_wrap .grey{
+			color: #89919c;
+			font-size: 11px
+		}
+		.c_input{
+			width: 370px;
+			display: block;
+			float: left;
+			border-radius: 5px;
+			padding: 17px;
+			border:1px solid #eaeaea;
+		}
+		.fixer{
+			clear: both;
+			height: 20px
+		}
+		.c_comment img{
+			max-width: 500px;
+			margin: 10px 0px;
+		}
+		.c_comment tr td:nth-child(1) b{
+			background-color: green;
+			color: #fff;
+			padding: 5px 10px ;
+			display: block;
+			width: auto;
+			float: left;
+		}
+		table.c_comment td{
+			vertical-align: top;
+			padding-top: 5px;
+		}
+		table.c_comment p{
+			margin: 0px
+		}
+		table.c_comment tr td:nth-child(1){
+			width: 120px;
+		}
+		.c_seller_post_name{
+			padding: 10px 0px
+		}
