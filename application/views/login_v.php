@@ -43,7 +43,7 @@
                             ?>
                             <fieldset>
                                 <label><h3 align="center"><strong>LOGIN PEMILIH</strong></h3></label><br>
-                                <label for="">NBI</label>
+                                <label for="">Nomer Induk Mahasiswa</label>
                                 <input type="text" name="email" id=""><br>
                                 <label for="">Key</label>
                                 <input type="text" name="password" id=""><br>
