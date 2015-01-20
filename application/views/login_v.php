@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Pemilu Apps Ver 1.0 (Teknik Informatika)</title>
+        <title>Pemilu Raya Apps Ver 1.0 (BEM-FT Untag Sby)</title>
         <script src="<?= base_url(); ?>global/app/js/modernizr.js"></script>
         <!--[if (gt IE 8) | (IEMobile)]><!-->
         <link rel="stylesheet" href="<?= base_url(); ?>global/app/css/style.css">
@@ -21,7 +21,7 @@
             <div id="inner-wrap">
                 <header id="top" role="banner" class="login">
                     <div class="block">
-                        <h1 class=" icon-shoop">HMTI</h1>
+                        <h1 class=" icon-shoop">Pemilu Raya BEM-FT 2015</h1>
                     </div>
                 </header>
                 <div class="clear"></div>

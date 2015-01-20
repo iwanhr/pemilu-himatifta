@@ -21,7 +21,7 @@
             <div id="inner-wrap">
                 <header id="top" role="banner" class="login">
                     <div class="block">
-                        <h1 class=" icon-shoop">HMTI</h1>
+                        <h1 class=" icon-shoop">Pemilu Raya BEM-FT Untag Sby</h1>
                     </div>
                 </header>
                 <div class="clear"></div>
