@@ -15,7 +15,7 @@
                 <form class="forms" id="signupForm" method="post" action="<?= base_url('admin/add_pemilih');?>">
                     <div class="float-left column31">
                         <label class="desc" for="expired_date">NBI</label>
-                        <input type="text" id="nbi" class="field text full" name="nbi" value="46" />
+                        <input type="text" id="nbi" class="field text full" name="nbi" value="" />
                         <br />
                         <label class="desc" for="expired_date">Nama Lengkap</label>
                         <input type="text" id="nama" class="field text full" name="nama" />
