@@ -44,7 +44,7 @@
 
                 <th class="tableheader">Status</th>
 
-                <th class="tableheader">Action</th>
+                <!-- <th class="tableheader">Action</th> -->
 
             </tr>
 
@@ -140,11 +140,11 @@
 
                 </td>
 
-                 <td class="tablecell">
+                 <!-- <td class="tablecell">
 
                      <a href="<?= base_url('admin/delete_pemilih')."/".$data['id_chooser'];?>">delete</a>
 
-                </td>
+                </td> -->
 
             </tr>
 
