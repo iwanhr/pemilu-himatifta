@@ -197,7 +197,7 @@ input[type="search"]::-webkit-search-decoration {
 button::-moz-focus-inner,
 input::-moz-focus-inner {
   border: 0;
-  padding: 0;
+  padding: 5;
 }
 
 textarea {
@@ -997,12 +997,12 @@ margin-top: 7px;
     text-align: center;
   }
   #main.login{
-    width: 95%;
-    display: block;
+    width: 50%;
+    display:block;
     margin: 0 auto;
   }
   #main.login article{
-    background-color: #40a3c4;
+    background-color:#00FFFF;
     margin-top: 20px;
     border-radius: 5px;
     color: #fff;
@@ -1170,7 +1170,7 @@ margin-top: 7px;
     float: left;
   }
   body{
-    background-color: #ededed
+    background-color:#0099FF
   }
 }
 /*Tablet*/

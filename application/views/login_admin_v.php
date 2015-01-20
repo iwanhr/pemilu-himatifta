@@ -43,7 +43,7 @@
                             ?>
                             <fieldset>
                                 <label><h3 align="center"><strong>LOGIN ADMINISTRATOR</strong></h3></label><br>
-                                <label for="">NBI</label>
+                                <label for="">Nomor Induk Mahasiswa</label>
                                 <input type="text" name="email" id=""><br>
                                 <label for="">Nama</label>
                                 <input type="text" name="password" id=""><br>
@@ -67,5 +67,5 @@
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
         <script src="<?= base_url(); ?>global/app/js/main.jquery.js"></script>
         <script src="<?= base_url(); ?>global/app/js/idangerous.swiper-2.1.min.js"></script>
-s    </body>
+</body>
 </html>

@@ -14,6 +14,7 @@
             Pemilu Apps Admin
         </title>
         <?= link_tag('global/admin/css/login.css'); ?>
+        <link href="../../../global/css/style.css" rel="stylesheet" type="text/css">
     </head>
     <body class="login"> 
         <div id="login"><h1><a href="#" title="Login Pemilu Himatifta Apps"><span class="hide">PEMILU APPS</span></a></h1> 

@@ -10,7 +10,7 @@
         <script src="<?= base_url(); ?>global/js/modernizr.js"></script>
         <!--[if (gt IE 8) | (IEMobile)]><!-->
         <link rel="stylesheet" href="<?= base_url(); ?>global/css/style.css">
-        <link rel="stylesheet" href="<?= base_url(); ?>global/css/idangerous.swiper.css">
+        <link href="<?= base_url(); ?>global/css/idangerous.swiper.css" rel="stylesheet" type="text/css">
         <link rel="stylesheet" href="<?= base_url(); ?>global/css/masonry.css" />
         <script src="<?php echo base_url();?>global/js/jquery-1.8.1.min.js"></script>
         <!--<![endif]-->

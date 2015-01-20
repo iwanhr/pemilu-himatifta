@@ -15,17 +15,19 @@
         <!--[if (lt IE 9) & (!IEMobile)]>
         <link rel="stylesheet" href="css/ie.css">
         <![endif]-->
+        <link href="style.css" rel="stylesheet" type="text/css">
+        <link href="css/style.css" rel="stylesheet" type="text/css">
     </head>
     <body>
         <div id="outer-wrap">
             <div id="inner-wrap">
                 <header id="top" role="banner" class="login">
                     <div class="block">
-                        <h1 class=" icon-shoop">Pemilu Raya BEM-FT 2015</h1>
+                        <h1 class="icon-shoop">Pemilu Raya BEM-FT 2015</h1>
                     </div>
                 </header>
                 <div class="clear"></div>
-                <div id="main" role="main" class="login">
+                <div id="main" role="main" class="
                     <form name="loginform" id="loginform" action="<?php echo base_url('auth/login_pemilih'); ?>" method="post"> 
                         <article class="block prose">
                             <?php
@@ -55,7 +57,7 @@
 <!--                            <section class="halflog">
                                 <a href="<?php echo base_url('auth/register/') ?>" class="con-register centert">Register</a>
                             </section>-->
-                            <section class="halflog">
+                            <section class="">
                                 <input type="hidden" name="key" id="key" value="<?=$key;?>"/>
                                 <input type="submit" name="submit" id="wp-submit" class="tombol-login" value="Log In" tabindex="100" style=""/>
                             </section>
@@ -65,7 +67,7 @@
 
             </div>
             <!--/#inner-wrap-->
-        </div>
+        
         <!--/#outer-wrap-->
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
         <script src="<?= base_url(); ?>global/app/js/main.jquery.js"></script>
