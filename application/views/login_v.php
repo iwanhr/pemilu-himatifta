@@ -47,7 +47,7 @@
                                 <label><h3 align="center"><strong>LOGIN PEMILIH</strong></h3></label><br>
                                 <label for="">Nomer Induk Mahasiswa</label>
                                 <input type="text" name="email" id=""><br>
-                                <label for="">Key</label>
+                                <label for="">Key (*Chase Sensitive)</label>
                                 <input type="text" name="password" id=""><br>
                                 <div class="clear"></div>
                             </fieldset>

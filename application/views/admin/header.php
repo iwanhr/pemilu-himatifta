@@ -10,7 +10,7 @@
         <meta charset="utf-8">
         <!-- Use the .htaccess and remove these lines to avoid edge case issues.
         More info: h5bp.com/b/378 -->
-		<title>Pemilu Admin</title>
+		<title>Pemilu Admin Apps ver 1.0</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title></title>
         <meta name="description" content="">
@@ -33,7 +33,7 @@
     </head>
     <body>
         <header>
-            <h4 id="perusahaan">ADMIN PEMILU HIMATIFTA</h4>
+            <h4 id="perusahaan">ADMIN PEMILU BEM-FT 2015</h4>
             <?php $this->load->view("admin/nav");?>
             <a href="<?=base_url();?>admin/logout"><span id="profil">Logout</span></a>
         </header>

@@ -22,7 +22,7 @@
                         <br />
 <!--                        <label class="desc" for="expired_date">Phone</label>
                         <input type="text" id="phone" class="field text full" name="phone" /> -->
-                        <label class="desc" for="expired_date">Key</label>
+                        <label class="desc" for="expired_date">Key (*) Hafalkan</label>
                         <input type="text" id="reg_key" class="field text full" name="reg_key"  value="<?=$reg_key;?>" readonly=""/>
                     </div>
                     <div class="clear"></div>
