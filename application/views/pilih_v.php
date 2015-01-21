@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Pemilu Apps Ver 1.0 (Fakultas Teknologi Informasi)</title>
+        <title>Pemilu Apps Ver 1.0 (BEM-FT Untag Sby)</title>
         <script src="<?= base_url(); ?>global/app/js/modernizr.js"></script>
         <!--[if (gt IE 8) | (IEMobile)]><!-->
         <link rel="stylesheet" href="<?= base_url(); ?>global/app/css/style.css">
@@ -27,8 +27,11 @@
                 <div class="clear"></div>
                 <br>
                 <h2 align="center">
-                    SILAHKAN TENTUKAN PILIHAN ANDA!
+                    SILAHKAN TENTUKAN PILIHAN ANDA !!
                 </h2>
+				<h3 align="center">
+					One Click !! One Vote!!
+				</h3>
                 <?php
                 if (!empty($kandidat))
                 {

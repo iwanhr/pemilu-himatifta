@@ -38,7 +38,7 @@
 
                 <th class="tableheader">Key</th>
 
-                <th class="tableheader">Phone</th>
+<!--                <th class="tableheader">Phone</th> -->
 
                 <th class="tableheader">Register Time</th>
 
@@ -122,11 +122,11 @@
 
                 </td>
 
-                <td class="tablecell">
+<!--                <td class="tablecell">
 
                     <?=$data['phone'];?>
 
-                </td>
+                </td>-->
 
                 <td class="tablecell">
 
